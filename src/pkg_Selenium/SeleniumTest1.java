@@ -1,0 +1,20 @@
+package pkg_Selenium;
+
+import org.testng.annotations.Test;
+
+public class SeleniumTest1 {
+	
+	@Test
+	public void TC_001()
+	{
+		System.out.println("This is 1 selenium test");
+	}
+	
+	@Test
+	public void TC_002()
+	{
+		System.out.println("This is 2 selenium test");
+	}
+	
+	
+}
