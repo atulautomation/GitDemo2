@@ -16,5 +16,17 @@ public class SeleniumTest3 {
 		System.out.println("This is 2 APPIUM test");
 	}
 	
+	@Test
+	public void TC_003()
+	{
+		System.out.println("This is 3 APPIUM test");
+	}
+	
+	@Test
+	public void TC_004()
+	{
+		System.out.println("This is 4 APPIUM test");
+	}
+	
 	
 }

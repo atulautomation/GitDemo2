@@ -16,5 +16,17 @@ public class SeleniumTest1 {
 		System.out.println("This is 2 selenium test");
 	}
 	
+	@Test
+	public void TC_003()
+	{
+		System.out.println("This is 3 selenium test");
+	}
+	
+	@Test
+	public void TC_004()
+	{
+		System.out.println("This is 4 selenium test");
+	}
+	
 	
 }
